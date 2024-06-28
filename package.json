@@ -10,19 +10,15 @@
     "postinstall": "nuxt prepare",
     "lint": "eslint ."
   },
-  "dependencies": {
-    "@nuxt/ui": "^2.16.0",
-    "@vueuse/core": "^10.9.0",
-    "@vueuse/nuxt": "^10.9.0",
-    "nuxt": "^3.11.2",
-    "nuxt-module-cli-shortcuts": "^0.0.4",
-    "unplugin-turbo-console": "^1.8.6",
-    "vue": "^3.4.27",
-    "vue-router": "^4.3.2"
-  },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.18.1",
+    "@antfu/eslint-config": "^2.21.1",
     "@nuxt/eslint": "^0.3.13",
-    "eslint": "^9.3.0"
+    "@nuxt/ui": "^2.17.0",
+    "@vueuse/core": "^10.11.0",
+    "@vueuse/nuxt": "^10.11.0",
+    "eslint": "^9.5.0",
+    "nuxt": "^3.12.2",
+    "nuxt-module-cli-shortcuts": "^0.0.4",
+    "unplugin-turbo-console": "^1.8.9"
   }
 }
